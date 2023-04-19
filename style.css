@@ -161,7 +161,7 @@ html,body{
     flex-shrink: 0;
     height: 100%;
     width: 35%;
-    
+    box-shadow: 5px 10px 10px #dadada;
    
 }
 
